@@ -7,3 +7,5 @@
 4. Назовите не менее 5 языков программирования
 	Python, JavaScript, C#, C++, GOOGLE APPS SCRIPT
 5. Назовите 2 IDE, которые вы знаете
+	IntelliJ IDEA, Visual Studio Code
+	
