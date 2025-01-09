@@ -1,1 +1,1 @@
-
+# Tarkvaraarenduse küsimused/ülesannet
